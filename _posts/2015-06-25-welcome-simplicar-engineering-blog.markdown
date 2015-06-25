@@ -8,6 +8,6 @@ categories: simplicar
 
 Hi all!
 
-This post is to officially inaugurate the Simplicar's Engineering blog where we will publish crazy techincal stuff as well as job posts.
+This post is to officially inaugurate the Simplicar's Engineering Blog where we will publish crazy techincal stuff as well as job posts.
 
 Hope to hear from you!
